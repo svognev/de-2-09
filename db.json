@@ -1,0 +1,58 @@
+{
+    "features": [
+      {
+        "title": "Rechtschreibprüfung",
+        "text": "Niemand schreibt gerne fehlerhafte Texte, oder? Vor allem, wenn Sie dies täglich tun.\n\nMit der Funktion „Rechtschreibprüfung“ können Sie nicht nur den Rechtschreibfehler sehen, sondern auch Vorschläge zur Behebung des Problems erhalten. Sehen Sie ein unten mit der roten Linie markiertes Wort? Klicken Sie mit der rechten Maustaste darauf und die „Rechtschreibprüfung“ wird im Menü angezeigt.\n\nSie können einen Fehler sofort korrigieren, indem Sie einen der Vorschläge auswählen. So brauchen Sie sich nicht mehr um Ihre Grammatik zu kümmern. Achten Sie stattdessen mehr auf den Inhalt und einhalten alle Termine.",
+        "icon": "https://i.ibb.co/sgF5mN6/09-1.png",
+        "image": "https://i.ibb.co/54Dbyn0/im01.png"
+      },
+      {
+        "title": "Abschnitts-Tags",
+        "text": "Wir alle suchen nach Wegen, um das Surfen im Dokument zu vereinfachen. Die Verwendung von Abschnitts-Tags könnte Ihre Antwort sein!\n\nSie können jeden Abschnitt unabhängig von seinem Typ kennzeichnen. Nur mit ein paar Tags können Sie Abschnitte sofort kategorisieren und kennzeichnen, sodass Sie später zum Meister der Schnellsuche werden.\n\nEs gibt verschiedene Arten von Abschnitts-Tags. Darüber hinaus sind diese für jedes System individuell konfigurierbar. Es gibt Tag-spezifische Felder wie Kontrollkästchen, Optionsschaltfläche, Dropdown-Listen usw. Wenn Sie beispielsweise auf den Tag-Typ des Weblink-Felds klicken, wird der angehängte Web-Link in einem neuen Browser-Tab geöffnet. Der Tag-Typ „Priorität“ umfasst drei Prioritätsstufen, wenn auf primäre Probleme hingewiesen werden muss.\n\nNetter Bonus: Eine Anzahl Abschnitts-Tags pro Abschnitt ist unbegrenzt.",
+        "icon": "https://i.ibb.co/j67gf61/09-2.png",
+        "image": "https://i.ibb.co/Sv51hQs/im02.png"
+      },
+      {
+        "title": "Magic Tabs",
+        "text": "Wenn Sie in Ihren Dokumenten ständig gut durchgeführte Listen erstellen müssen, sind Sie wahrscheinlich bereits mit der Funktion „Magic Tabs“ vertraut. Wenn Sie „Magic Tabs“ aktivieren, kann die Entfernung zwischen dem Listenelement und dem Text kontrolliert werden. Anstelle unserer langen und langweiligen „wie funktioniert das?“ - Erklärung sehen Sie sich besser die Beispiele unten genauer an.",
+        "icon": "https://i.ibb.co/YfzDn4t/09-3.png",
+        "image": "https://i.ibb.co/yk1zLyW/im03.png"
+      },
+      {
+        "title": "Funktion „Rückgängig machen“",
+        "text": "Ihr alle habt danach gefragt. Selbst für unser SMASHDOCs-Team war diese Funktion eine Erleichterung. Wenn Sie jetzt etwas geschrieben und einen Fehler gemacht oder versehentlich wichtige Informationen gelöscht haben, können Sie die Einstellungen mit der Rückgängig-Tastenkombination „Rückgängig“ = Cmd + Z für Mac oder Ctrl + Z für Windows problemlos wieder herstellen. Die Aktion „Rückgängig“ löscht das zuletzt geschriebene Wort im Abschnitt.\n\nZusätzlich kann jede Undo-Aktion auch mit Cmd + Shift + Z für Mac oder Strg + Shift + Z für Windows wiederholt werden.\n\nGute Nachrichten: Die Anzahl der rückgängig zu machenden Aktionen ist unbegrenzt.",
+        "icon": "https://i.ibb.co/jzWmyFy/09-4.png",
+        "image": "https://i.ibb.co/fDbYjNN/im04.png"
+      },
+      {
+        "title": "Weiterer Funktionen zum Entwurfsabschnitt",
+        "text": "Ab jetzt protokolliert SMASHDOCs alle Änderungen am Inhalt nicht nur im Überprüfungsmodus (wenn Sie das Dokument für andere Benutzer freigegeben haben), sondern auch im Entwurfsmodus (Ihrem privaten Dokument). Sie müssen nur die Schaltfläche „Änderungen nachverfolgen“ drücken. Auf diese Weise wird Ihr Entwurfsdokument als „Überprüfung“ gekennzeichnet, obwohl es immer noch Ihr privates Dokument bleibt. Alle Änderungen werden protokolliert. Um weitere Benutzer zum Dokument hinzuzufügen, geben Sie es zur Überprüfung frei, indem Sie auf die Schaltfläche „Teilen“ klicken.\n\nDarüber hinaus können Sie in den Entwürfen des Überprüfungsmodus auch Kommentare hinterlassen und die Abschnitte mit einem Lesezeichen versehen.",
+        "icon": "https://i.ibb.co/jvqqFrZ/icon-no-icon.png",
+        "image": "https://i.ibb.co/H4QsFY9/im05.jpg"
+      },
+      {
+        "title": "SD Verknüpfungen",
+        "text": "Sie haben eindeutig die Idee davon bekommen, dass wir alles vereinfachen wollen. Deshalb ist das Ausführen von Aktionen in SMASHDOCs einfacher als je zuvor! Nutzen Sie einfach unsere umfangreiche Auswahl an Verknüpfungen für Windows- und Mac-Benutzer.\n\nHier sind einige Abkürzungen für Sie. Die vollständige Liste der Kurzbefehle finden Sie in Abschnitt 3.1.5 unseres Handbuches.",
+        "icon": "https://i.ibb.co/jvqqFrZ/icon-no-icon.png",
+        "image": "https://i.ibb.co/QP7sSjh/im06.png"
+      },
+      {
+        "title": "Verbesserte Formatierungserfahrung",
+        "text": "Hört sich schwer an, ist jedoch sehr einfach zu bedienen.\n\nWir haben „Abschnittsformatierung entfernen“ und „Formatierung löschen“ aus dem Dropdown-Fenster entfernt und diese stattdessen in unsere Symbolleiste hinzugefügt. Daher erleichtern zwei separate Symbole direkt vor Ihren Augen die Bearbeitung von Dokumenten erheblich.",
+        "icon": "https://i.ibb.co/jvqqFrZ/icon-no-icon.png",
+        "image": "https://i.ibb.co/sp7FprV/im07.png"
+      },
+      {
+        "title": "Verschachtelte Listen im Tabelleneditor",
+        "text": "Wir erweitern unsere Bearbeitungsoptionen ständig in Tabellen. Sicherlich ist es ein ständig ablaufender Prozess.\n\nIn dieser Version haben wir verschachtelte oder sogenannte eingebettete Mehrebenenlisten hinzugefügt. Diese helfen Ihnen dabei, die Daten konsistent und logisch zu strukturieren, Notizen nach Themen zu ordnen und nicht im Informationsumfang zu verlieren.",
+        "icon": "https://i.ibb.co/jvqqFrZ/icon-no-icon.png",
+        "image": "https://i.ibb.co/0DDfcx9/im08.png"
+      },
+      {
+        "title": "Die Neugestaltung des Formatierungsmenüs",
+        "text": "Bei der Entwicklung unserer neuen Funktionalität achten wir nicht nur auf Ihre effiziente Arbeit mit Dokumenten, sondern auch auf Ihre Benutzererfahrung. Aus diesem Grund haben wir beschlossen, das Dropdown-Fenster für Absatzdekoratoren benutzerfreundlicher zu gestalten. Außerdem haben wir zwei Schaltflächen hinzugefügt, mit denen Sie alle Stile erweitern oder bei Bedarf einige / alle ausblenden können.",
+        "icon": "https://i.ibb.co/jvqqFrZ/icon-no-icon.png",
+        "image": "https://i.ibb.co/dbHLRwK/im09.png"
+      }
+    ]
+}
